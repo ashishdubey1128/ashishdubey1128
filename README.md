@@ -18,8 +18,12 @@ At present, I'm deeply engrossed in enhancing the patient experience through my 
 Looking Ahead:
 The horizon holds exciting possibilities. I'm determined to keep pushing the boundaries of what technology can achieve. As I continue to grow and learn, I'm open to collaborations that align with my passion for creating meaningful change through innovation.
 
+<hr>
+
 Technologies I love interacting with:
 -[![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)](https://skillicons.dev)
 
-[![Connect](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ashish-dubey-fsdeveloper)
+<hr>
+
+Connect with me on [![Connect](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ashish-dubey-fsdeveloper)
 

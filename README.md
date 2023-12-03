@@ -21,6 +21,19 @@ The horizon holds exciting possibilities. I'm determined to keep pushing the bou
 <hr>
 
 ### Technologies I love interacting with:
+[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
 ![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
 
 <hr>

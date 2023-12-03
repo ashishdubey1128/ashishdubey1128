@@ -17,3 +17,6 @@ At present, I'm deeply engrossed in enhancing the patient experience through my 
 
 Looking Ahead:
 The horizon holds exciting possibilities. I'm determined to keep pushing the boundaries of what technology can achieve. As I continue to grow and learn, I'm open to collaborations that align with my passion for creating meaningful change through innovation.
+
+Technologies I love interacting with:
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,jenkins,figma&theme=light)](https://skills.thijs.gg)

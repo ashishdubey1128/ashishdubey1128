@@ -22,19 +22,19 @@ The horizon holds exciting possibilities. I'm determined to keep pushing the bou
 
 ### Technologies I love interacting with:
 [![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
-![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=gatsby&theme=dark)](https://www.gatsbyjs.com/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com/free/?gclid=Cj0KCQiA67CrBhC1ARIsACKAa8QYOxj4qgjLaHtZpXF4_oTjUJJSejPg7gG8jzg8vAUWfUT35w7XbvMaAgI6EALw_wcB&trk=14a4002d-4936-4343-8211-b5a150ca592b&sc_channel=ps&ef_id=Cj0KCQiA67CrBhC1ARIsACKAa8QYOxj4qgjLaHtZpXF4_oTjUJJSejPg7gG8jzg8vAUWfUT35w7XbvMaAgI6EALw_wcB:G:s&s_kwcid=AL!4422!3!453325184782!e!!g!!aws!10712784856!111477279771&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/html)
+[![My Skills](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=graphql&theme=dark)](https://graphql.org/)
+[![My Skills](https://skillicons.dev/icons?i=jenkins&theme=dark)](https://www.jenkins.io/)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/)
 
 <hr>
 

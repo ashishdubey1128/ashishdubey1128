@@ -25,8 +25,7 @@ The horizon holds exciting possibilities. I'm determined to keep pushing the bou
 
 <hr>
 
-### Connect with me on
-<br>
+### Connect with me on:
 
 [![Connect](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ashish-dubey-fsdeveloper)
 

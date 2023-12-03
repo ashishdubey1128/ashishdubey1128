@@ -21,9 +21,10 @@ The horizon holds exciting possibilities. I'm determined to keep pushing the bou
 <hr>
 
 Technologies I love interacting with:
--[![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)](https://skillicons.dev)
+-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)]
 
 <hr>
 
-Connect with me on [![Connect](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ashish-dubey-fsdeveloper)
+Connect with me on<br>
+[![Connect](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/ashish-dubey-fsdeveloper)
 

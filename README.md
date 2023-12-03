@@ -21,7 +21,7 @@ The horizon holds exciting possibilities. I'm determined to keep pushing the bou
 <hr>
 
 Technologies I love interacting with:
--[![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=js,react,ts,gatsby,nodejs,aws,css,html,tailwind,git,mongodb,graphql,jenkins,figma&theme=dark)
 
 <hr>
 
